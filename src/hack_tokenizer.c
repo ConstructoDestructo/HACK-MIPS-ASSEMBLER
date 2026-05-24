@@ -1,4 +1,4 @@
-#include "D:/Github_local_repos/Personal_Projects/HACK-MIPS-ASSEMBLER/include/hack_tokenizer.h"
+#include "D:/Github_local_repos/HACK-MIPS-ASSEMBLER/include/hack_tokenizer.h"
 
 
 Token tokenize(char *line)

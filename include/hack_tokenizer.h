@@ -20,4 +20,5 @@ typedef struct{
 
 Token tokenize(char *line);
 char *trim(char *line);
+void copyToValueMember(char *value, char *line, TokenType type);
 #endif
